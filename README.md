@@ -25,4 +25,4 @@ Our mission is to provide the technology to make reopening campus as safe as pos
 - Julia Liu: Developer
 - Mimi Shalf: Designer
 - Zoya Razzak: Designer
-- Kalyanaraman Shankari: Advisor?
+- Kalyanaraman Shankari: Advisor
